@@ -14,7 +14,7 @@ b. The embeddings are then added and divided by the number of words in that revi
 
 
 Test Accuracies:
-Naïve Bayes: 63.26%
-Neural Network: 81.42%
-Random Forest: 76.69%
-KNN: 69.25%
+1. Naïve Bayes: 63.26%
+2. Neural Network: 81.42%
+3. Random Forest: 76.69%
+4. KNN: 69.25%
